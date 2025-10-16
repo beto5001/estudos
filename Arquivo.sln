@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36202.13 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivo", "Arquivo\Arquivo.csproj", "{2F55BCAE-C2CC-433D-B1A0-4FECF32FA8A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Texto", "Texto\Texto.csproj", "{FB343ACF-FEC5-4CFF-AE60-A4D7C758EF86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2F55BCAE-C2CC-433D-B1A0-4FECF32FA8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F55BCAE-C2CC-433D-B1A0-4FECF32FA8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F55BCAE-C2CC-433D-B1A0-4FECF32FA8A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB343ACF-FEC5-4CFF-AE60-A4D7C758EF86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB343ACF-FEC5-4CFF-AE60-A4D7C758EF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB343ACF-FEC5-4CFF-AE60-A4D7C758EF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB343ACF-FEC5-4CFF-AE60-A4D7C758EF86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
