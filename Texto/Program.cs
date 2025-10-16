@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string brinksDaSilva = $"o {{betu}} é \"magro\"";
+
+Console.WriteLine(brinksDaSilva);
