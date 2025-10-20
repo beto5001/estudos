@@ -10,7 +10,7 @@ byte[] buffer = new byte[1024];
 while(numeroDeBytesLidos != 0)
 {
     numeroDeBytesLidos = fluxoDoArquivo.Read(buffer, 0, 1024);
-    LeitorDeArquivos.EscreverBuffer(buffer);
+    LeitorDeArquivos.EscreverBuffer(buffer); 
 }
 
 
