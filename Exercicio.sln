@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36202.13 d17.14
+VisualStudioVersion = 17.14.36202.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivo", "Arquivo\Arquivo.csproj", "{2F55BCAE-C2CC-433D-B1A0-4FECF32FA8A1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Texto", "Texto\Texto.csproj", "{FB343ACF-FEC5-4CFF-AE60-A4D7C758EF86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "insert-into-array", "insert-into-array\insert-into-array.csproj", "{FD59E34D-FF7C-4D84-AEA7-F3AC58B7DF53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FB343ACF-FEC5-4CFF-AE60-A4D7C758EF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB343ACF-FEC5-4CFF-AE60-A4D7C758EF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB343ACF-FEC5-4CFF-AE60-A4D7C758EF86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD59E34D-FF7C-4D84-AEA7-F3AC58B7DF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD59E34D-FF7C-4D84-AEA7-F3AC58B7DF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD59E34D-FF7C-4D84-AEA7-F3AC58B7DF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD59E34D-FF7C-4D84-AEA7-F3AC58B7DF53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
